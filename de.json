@@ -1,0 +1,14 @@
+{
+  "title": "Dart Assistant",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dart Assistant",
+        "description": "Richtet Dart Assistant lokal ein und lädt die Dashboard-Karte automatisch. Sounds und Caller können anschließend in den Karteneinstellungen importiert werden."
+      }
+    },
+    "abort": {
+      "already_configured": "Dart Assistant ist bereits eingerichtet."
+    }
+  }
+}

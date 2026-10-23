@@ -1,0 +1,14 @@
+{
+  "title": "Dart Assistant",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dart Assistant",
+        "description": "Set up Dart Assistant locally and load the dashboard card automatically. Import your sounds and caller packs in the card settings afterwards."
+      }
+    },
+    "abort": {
+      "already_configured": "Dart Assistant is already configured."
+    }
+  }
+}
